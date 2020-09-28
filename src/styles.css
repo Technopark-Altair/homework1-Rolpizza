@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+.image{
+    padding: 20px;
+}
+.btn{
+    font-size: 30px;
+}
+.form{
+    font-size: 20px;
+}
+.form:focus{
+    color: red;
+    background-color: blueviolet;
+}
+#date{
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: chocolate;
+}
